@@ -1,0 +1,24 @@
+{
+  "name": "AnonymChat",
+  "description": "Bot anonymous chat.",
+  "repository": "https://github.com/unicornhubs/AnonymChat",
+  "logo": "https://logopond.com/logos/b3a58f13a7a17005e7bd8e8785b2d2b3.png",
+  "env": {
+    "TOKEN": {
+      "description": "Dapatkan di @botfather",
+      "value": ""
+    },
+    "OWNER": {
+      "description": "Isi dengan username kalian tanpa tanda @",
+      "value": "isi disini"
+    },
+    "GROUP": {
+      "description": "Isi dengan username group kalian tanpa tanda @ kalau gak punya gak usah isi",
+      "value": "isi disini"
+    },
+    "CHANNEL": {
+      "description": "Isi dengan username channel kalian tanpa tanda @ kalau gak punya gak usah isi",
+      "value": "isi disini"
+    }
+  }
+}
